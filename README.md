@@ -1,8 +1,8 @@
-![logo](https://github.com/mahfuz33R/mahfuz33R/blob/main/assets/github_cover.png)
+![logo](https://github.com/mahfuz-security/mahfuz-security/blob/main/assets/github_cover.png)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=mahfuz33r&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuz33r" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mahfuz-security&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuz-security" /> </p>
 <p align="center">
-  <a href="https://github.com/mahfuz33R">
+  <a href="https://github.com/mahfuz-security">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Md+Mahfuzur+Rahman;Penetration+Tester;Red+Teamer;Ethical+Hacker;Cybersecurity+Researcher;Bug+Bounty+Hunter" alt="Typing SVG" align="center"/>
   </a>
 </p>
@@ -23,9 +23,9 @@ Hello, I’m Md Mahfuzur Rahman, a dedicated Cybersecurity Researcher and Securi
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=mahfuz33R&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuz33R&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
-   <img src="https://git-hub-streak-stats.vercel.app?user=mahfuz33R&theme=merko&mode=weekly" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahfuz-security&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahfuz-security&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
+   <img src="https://git-hub-streak-stats.vercel.app?user=mahfuz-security&theme=merko&mode=weekly" height="150" alt="stats graph"  />
 </div>
 
 ###
@@ -96,7 +96,7 @@ Hello, I’m Md Mahfuzur Rahman, a dedicated Cybersecurity Researcher and Securi
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mahfuz33R/mahfuz33R/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/mahfuz33R/mahfuz-security/output/snake.svg" alt="Snake animation" />
   <br clear="both">
   <br>
   <br>
@@ -114,7 +114,7 @@ Hello, I’m Md Mahfuzur Rahman, a dedicated Cybersecurity Researcher and Securi
 <br>
 <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahfuz33R&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area_color=00FF00&area=true&hide_border=true&custom_title=%20" width="850" height="300" alt="Contribution Constellation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahfuz-security&bg_color=0D1117&color=00FF00&line=00FF00&point=00FF00&area_color=00FF00&area=true&hide_border=true&custom_title=%20" width="850" height="300" alt="Contribution Constellation"/>
 </div>
 
 ###
